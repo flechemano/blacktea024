@@ -1,8 +1,0 @@
-{
-  "name": "your-package-name",
-  "version": "1.0.0",
-  "scripts": {
-    "update-deprecated": "npm uninstall @babel/plugin-proposal-private-methods @babel/plugin-proposal-numeric-separator @babel/plugin-proposal-class-properties @babel/plugin-proposal-nullish-coalescing-operator rollup-plugin-terser @babel/plugin-proposal-optional-chaining domexception sourcemap-codec workbox-cacheable-response workbox-google-analytics && npm install @babel/plugin-transform-private-methods @babel/plugin-transform-numeric-separator @babel/plugin-transform-class-properties @babel/plugin-transform-nullish-coalescing-operator @rollup/plugin-terser @babel/plugin-transform-optional-chaining && npm audit fix"
-  }
-}
-

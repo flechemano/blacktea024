@@ -1,5 +1,6 @@
 [![Node.js CI](https://github.com/flechemano/blacktea024/actions/workflows/node.js.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/node.js.yml) [![NodeJS with Webpack](https://github.com/flechemano/blacktea024/actions/workflows/webpack.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/webpack.yml) [![Node.js CI](https://github.com/flechemano/blacktea024/actions/workflows/node.js.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/node.js.yml) [![Jekyll site CI](https://github.com/flechemano/blacktea024/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/jekyll-docker.yml)
 
+
 # Black Tea Supply Chain Management dApp
 
 ## Overview
@@ -60,7 +61,7 @@ Contributions to the Black Tea Supply Chain Management dApp are welcome! To cont
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE). [![CodeQL](https://github.com/flechemano/blacktea024/actions/workflows/codeql.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/codeql.yml)
 
 ## Contact
 

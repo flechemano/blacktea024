@@ -30,7 +30,7 @@ To run the Black Tea Supply Chain Management dApp locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/flechemano/black-tea.git
+   git clone https://github.com/flechemano/blacktea024.git
    ```
 
 2. Install dependencies:

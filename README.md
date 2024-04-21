@@ -1,6 +1,5 @@
-[![Node.js CI](https://github.com/flechemano/blacktea024/actions/workflows/node.js.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/node.js.yml)
+[![Node.js CI](https://github.com/flechemano/blacktea024/actions/workflows/node.js.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/node.js.yml) [![NodeJS with Webpack](https://github.com/flechemano/blacktea024/actions/workflows/webpack.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/webpack.yml)
 
-```
 # Black Tea Supply Chain Management dApp
 
 ## Overview

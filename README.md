@@ -1,7 +1,8 @@
 [![Node.js CI](https://github.com/flechemano/blacktea024/actions/workflows/node.js.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/node.js.yml) [![NodeJS with Webpack](https://github.com/flechemano/blacktea024/actions/workflows/webpack.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/webpack.yml) [![Node.js CI](https://github.com/flechemano/blacktea024/actions/workflows/node.js.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/node.js.yml) [![Jekyll site CI](https://github.com/flechemano/blacktea024/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/jekyll-docker.yml)
 
 [![CodeQL](https://github.com/flechemano/blacktea024/actions/workflows/codeql.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/codeql.yml)
-![license](https://img.shields.io/github/license/blacktea024)
+[![License](https://img.shields.io/github/license/flechemano/blacktea024)](https://github.com/flechemano/blacktea024/blob/main/LICENSE)
+
 
 # Black Tea Supply Chain Management dApp
 

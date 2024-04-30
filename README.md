@@ -7,6 +7,7 @@
 # Black Tea Supply Chain Management dApp
 
 ## Overview
+![Black Tea](https://raw.githubusercontent.com/flechemano/blacktea024/main/Blacktea024_1512x.jpg)
 
 The Black Tea Supply Chain Management dApp is a decentralized application (dApp) built on blockchain technology to revolutionize the tea industry's supply chain. This dApp aims to bring transparency, traceability, and fair trade practices to the tea market by leveraging the power of blockchain.
 

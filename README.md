@@ -24,7 +24,7 @@ The Black Tea Supply Chain Management dApp is a decentralized application (dApp)
 - **Blockchain:** Utilize blockchain technology for its immutable ledger, decentralized consensus mechanism, and smart contract functionality.
 - **Ethereum:** Leverage the Ethereum blockchain for its robust smart contract capabilities and widespread adoption in the decentralized finance (DeFi) ecosystem.
 - **Solidity:** Develop smart contracts using Solidity, a high-level programming language specifically designed for writing Ethereum smart contracts.
-- **Web3.js:** Interact with the Ethereum blockchain and smart contracts from the frontend using Web3.js, a JavaScript library for Ethereum development.
+- **Web3.js:** Interact with the Ethereum blockchain and smart contracts from the frontend using Web3.js a JavaScript library for Ethereum development.
 - **React:** Build the frontend user interface using React, a popular JavaScript library for building interactive web applications.
 - **IPFS:** Store off-chain data, such as images and documents related to tea production, on the InterPlanetary File System (IPFS) for decentralized and censorship-resistant storage.
 

@@ -10,11 +10,14 @@
   },
   "dependencies": {
     "@babel/plugin-proposal-optional-chaining": "^7.21.0",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@ethereumjs/block": "^5.2.0",
     "@truffle/hdwallet-provider": "^2.1.15",
     "eth-json-rpc-infura": "^5.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.23.0",
+    "web-vitals": "^3.5.2",
     "web3": "^4.6.0"
   },
   "author": "flechemano",
@@ -29,5 +32,17 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/flechemano/blacktea024"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }

@@ -1,0 +1,63 @@
+/* NewPage.css */
+
+/* Container styles */
+.new-page-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Title styles */
+.page-title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+/* Content styles */
+.page-content {
+  font-size: 16px;
+  color: #555;
+  line-height: 1.5;
+}
+
+/* Button styles */
+.action-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.action-button:hover {
+  background-color: #0056b3;
+}
+
+/* Link styles */
+.page-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.page-link:hover {
+  text-decoration: underline;
+}
+
+/* Background styles */
+.page-background {
+  background-color: #f8f9fa;
+  padding: 50px 0;
+}
+
+/* Footer styles */
+.page-footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}

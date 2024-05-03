@@ -2,7 +2,7 @@
 
 [![CodeQL](https://github.com/flechemano/blacktea024/actions/workflows/codeql.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/codeql.yml)
 [![License](https://img.shields.io/github/license/flechemano/blacktea024?color=blue)](https://github.com/flechemano/blacktea024/blob/main/LICENSE)
-
+[![Slither Analysis](https://github.com/flechemano/blacktea024/actions/workflows/slither.yml/badge.svg)](https://github.com/flechemano/blacktea024/actions/workflows/slither.yml)
 
 # Black Tea Supply Chain Management dApp
 

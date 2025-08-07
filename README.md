@@ -71,7 +71,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or inquiries, please contact
 ```
-flechemano@gmail.com]
+[flechemano@gmail.com]
 ```
 
 

@@ -13,7 +13,6 @@
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@ethereumjs/block": "^5.2.0",
     "@truffle/hdwallet-provider": "^1.7.0",
-    "blacktea024": "^0.1.8",
     "eth-json-rpc-infura": "^5.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

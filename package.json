@@ -12,7 +12,8 @@
     "@babel/plugin-proposal-optional-chaining": "^7.21.0",
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "@ethereumjs/block": "^5.2.0",
-    "@truffle/hdwallet-provider": "^2.1.15",
+    "@truffle/hdwallet-provider": "^1.7.0",
+    "blacktea024": "^0.1.8",
     "eth-json-rpc-infura": "^5.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -27,7 +28,7 @@
     "@babel/preset-env": "^7.24.4",
     "@babel/preset-react": "^7.24.1",
     "babel-loader": "^9.1.3",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^0.0.0"
   },
   "repository": {
     "type": "git",
